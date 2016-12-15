@@ -16,7 +16,5 @@ Summary of all activities in the past 24 hours displayed from the database.
 
 User's movement path tracked and displayed depending on their movement. Map is displayed when the app detects user walking or running. 
 
-<img src="https://cloud.githubusercontent.com/assets/15883609/21212735/6fd64f9e-c25d-11e6-980b-1ca33f382516.png" width="250" height="400" />
-
-<img src="https://cloud.githubusercontent.com/assets/15883609/21212742/7e7abd5a-c25d-11e6-93c0-674978a4abde.png" width="250" height="400" />
+<img src="https://cloud.githubusercontent.com/assets/15883609/21212735/6fd64f9e-c25d-11e6-980b-1ca33f382516.png" width="250" height="400" />          <img src="https://cloud.githubusercontent.com/assets/15883609/21212742/7e7abd5a-c25d-11e6-93c0-674978a4abde.png" width="250" height="400" />
 
